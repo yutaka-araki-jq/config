@@ -1,0 +1,15 @@
+﻿Description: ""
+IdDef: "XXX-XXX-XXX-XXX-XXXXXXX"
+FailValue: ""
+Members:
+- Name: "FloatMember"
+  Description: ""
+  IdDef: "XXX-XXX-XXX-XXX-XXXXXXX"
+  Type: "GRFloat"
+  Min: "0"
+  Max: "0"
+  InitialValue: ""
+  BasePrimitiveType:
+    IdDef: "XXX-XXX-XXX-XXX-XXXXXXX"
+    Path: ""
+InitialValue: ""

@@ -1,0 +1,32 @@
+﻿Description: ""
+IdDef: ""
+InputPorts:
+- Name: "A"
+  Description: ""
+  IdDef: "XXX-XXX-XXX-XXX-XXXXXXX"
+  PortType:
+    IdDef: "XXX-XXX-XXX-XXX-XXXXXXX"
+    Path: "SoleilType/ST_CMP3"
+  SpecificationLabelAlias: ""
+  ConnectedPort:
+    IdDef: "XXX-XXX-XXX-XXX-XXXXXXX"
+    Path: "component3/A"
+- Name: "B"
+  Description: ""
+  IdDef: "XXX-XXX-XXX-XXX-XXXXXXX"
+  PortType:
+    IdDef: "XXX-XXX-XXX-XXX-XXXXXXX"
+    Path: "SoleilType/ST_CMP2"
+  SpecificationLabelAlias: ""
+  ConnectedPort:
+    IdDef: "XXX-XXX-XXX-XXX-XXXXXXX"
+    Path: "component2/B"
+OutputPorts:
+- Name: "C"
+  Description: ""
+  IdDef: "XXX-XXX-XXX-XXX-XXXXXXX"
+  PortType:
+    IdDef: "XXX-XXX-XXX-XXX-XXXXXXX"
+    Path: "SoleilType/U8"
+  SpecificationLabelAlias: ""
+AutoNodeGeneration: false

@@ -1,0 +1,9 @@
+﻿Description: ""
+IdDef: "XXX-XXX-XXX-XXX-XXXXXXX"
+FailValue: ""
+Min: "0"
+Max: "0"
+InitialValue: ""
+BasePrimitiveType:
+  IdDef: "XXX-XXX-XXX-XXX-XXXXXXX"
+  Path: ""
